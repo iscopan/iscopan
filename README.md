@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My passion is Eurovision. I absolutely love Eurovision. It's my absolutely favourite night of the year. It's better than my birthday. It's better than Christmas. And I just can't think of anything else*
 
-* This is the caption of a famous video, I'm not that crazy...
+*This is the caption of a famous video, I'm not that crazy...
 
 🇪🇸
 
