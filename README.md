@@ -51,10 +51,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iscopan&show_icons=true&theme=light&line_height=27" alt="iscopan's Github Stats"/>
 </a>
 
-<span style="width=10px"></span>
+<br/>
 
 <a href="https://github.com/iscopan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscopan&theme=light" alt="iscopan's Most Used Languajes"/>
 </a>
 
+<br/>
+<br/>
 <br/>
