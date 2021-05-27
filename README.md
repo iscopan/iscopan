@@ -16,6 +16,8 @@
 
 *This is the caption of a famous video, I'm not that crazy...
 
+<br/>
+
 🇪🇸
 
 - 🔭 Ahora mismo estoy trabajando en mi TFG ✨
@@ -23,3 +25,20 @@
 - 📫 Cómo ponernos en contacto: GitHub doesn't have DMs?
 - 😄 Pronombres: He/him
 - ⚡ Curiosidad: En serio, me encanta Eurovisión
+
+<br/>
+
+<a href="https://t.me/iscopan">
+  <img align="left" alt="iscopan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/iscopan_">
+  <img align="left" alt="iscopan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://instagram.com/iscopan_/">
+  <img align="left" alt="iscopan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://linkedin.com/in/franciscodelapuente">
+  <img align="left" alt="iscopan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br/>
