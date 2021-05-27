@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">un mes <a href="https://t.co/8s54lSK38y">pic.twitter.com/8s54lSK38y</a></p>&mdash; isco 🍞 (@iscopan_) <a href="https://twitter.com/iscopan_/status/1384990326247641090?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr"> <a href="https://t.co/8s54lSK38y">pic.twitter.com/8s54lSK38y</a></p>&mdash; isco 🍞 (@iscopan_) <a href="https://twitter.com/iscopan_/status/1384990326247641090?ref_src=twsrc%5Etfw">Everyday</a></blockquote>
 
 🇪🇸
 
