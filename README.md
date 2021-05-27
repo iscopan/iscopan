@@ -27,6 +27,7 @@
 - ⚡ Curiosidad: En serio, me encanta Eurovisión
 
 <br/>
+<br/>
 
 **Social media:**
 
@@ -44,12 +45,13 @@
 </a>
 
 <br/>
+<br/>
 
 <a href="https://github.com/iscopan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iscopan&show_icons=true&theme=light&line_height=27" alt="iscopan's Github Stats"/>
   
 <a href="https://github.com/iscopan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" alt="iscopan's Most Used Languajes/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscopan&theme=light&hide_langs_below=1" alt="iscopan's Most Used Languajes/>
 </a>
 
 <br/>
