@@ -12,9 +12,9 @@
 - 💬 Ask me about anything, I'm glad to help ☺️
 - 📫 How to reach me: GitHub doesn't have DMs?
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My passion is Eurovision. I absolutely love Eurovision. It's my absolutely favourite night of the year. It's better than my birthday. It's better than Christmas. And I just can't think of anything else*
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr"> <a href="https://t.co/8s54lSK38y">pic.twitter.com/8s54lSK38y</a></p>&mdash; isco 🍞 (@iscopan_) <a href="https://twitter.com/iscopan_/status/1384990326247641090?ref_src=twsrc%5Etfw">Everyday</a></blockquote>
+* This is the caption of a famous video, I'm not that crazy...
 
 🇪🇸
 
