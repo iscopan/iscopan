@@ -23,7 +23,7 @@
 - 🔭 Ahora mismo estoy trabajando en mi TFG ✨
 - 💬 Preguntame sobre lo que quieras, estoy encantado de ayudar ☺️
 - 📫 Cómo ponernos en contacto: GitHub doesn't have DMs?
-- 😄 Pronombres: He/him
+- 😄 Pronombres: Él
 - ⚡ Curiosidad: En serio, me encanta Eurovisión
 
 <br/>
