@@ -6,7 +6,7 @@
 
 <br/>
 
-💂
+🟥🟦
 
 - 🔭 I’m currently working on my final thesis ✨
 - 💬 Ask me about anything, I'm glad to help ☺️
@@ -18,7 +18,7 @@
 
 <br/>
 
-💃
+🟥🟨🟥
 
 - 🔭 Ahora mismo estoy trabajando en mi TFG ✨
 - 💬 Preguntame sobre lo que quieras, estoy encantado de ayudar ☺️
