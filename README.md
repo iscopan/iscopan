@@ -8,7 +8,7 @@
 
 🟥🟦
 
-<> (- 🔭 I’m currently working on my final thesis ✨)
+<!--- - 🔭 I’m currently working on my final thesis ✨ -->
 - 💬 Ask me about anything, I'm glad to help ☺️
 - 📫 How to reach me: GitHub doesn't have DMs?
 - 😄 Pronouns: He/him
@@ -20,7 +20,7 @@
 
 🟥🟨🟥
 
-<> (- 🔭 Ahora mismo estoy trabajando en mi TFG ✨)
+<!--- - 🔭 Ahora mismo estoy trabajando en mi TFG ✨ -->
 - 💬 Preguntame sobre lo que quieras, estoy encantado de ayudar ☺️
 - 📫 Cómo ponernos en contacto: ¿GitHub no tiene MDs?
 - 😄 Pronombres: Él
