@@ -2,9 +2,13 @@
 
 <br/>
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iscopan&label=Views&color=blue&style=plastic" alt="iscopan visits" /> </p> -->
+<!---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iscopan&label=Views&color=blue&style=plastic" alt="iscopan visits" /> </p>
 
 <br/>
+
+-->
 
 🟥🟦
 
