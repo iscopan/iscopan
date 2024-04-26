@@ -101,14 +101,3 @@
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=_isco99&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<a href="https://github.com/iscopan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscopan&theme=light" alt="iscopan's Most Used Languajes"/>
-</a>
-
-<br/>
-<br/>
-
--->
