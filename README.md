@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Ingeniero Informático** (UVA + UOC) apasionado por crear aplicaciones que conecten **buen diseño** con **tecnología moderna**. Me especializo en desarrollo web y aplicaciones móviles de escritorio, siempre buscando ese equilibrio entre funcionalidad y experiencia de usuario. Me encanta explorar nuevas tecnologías y aceptar desafíos que me hagan salir de mi zona de confort.
+Soy un **Ingeniero Informático** (UVA + UOC) apasionado por crear aplicaciones que conecten **buen diseño** con **tecnología moderna**. Me especializo en desarrollo web y aplicaciones móviles y de escritorio, siempre buscando ese equilibrio entre funcionalidad y experiencia de usuario. Me encanta explorar nuevas tecnologías y aceptar desafíos que me hagan salir de mi zona de confort.
 
 - 📍 **Ubicación:** Valladolid, Castilla y León
 - 🎓 **Formación:** Grado UVa (Segovia) + Máster UOC en Ingeniería Informática
