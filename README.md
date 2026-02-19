@@ -5,7 +5,7 @@
 **Full Stack Developer** • **Scrum Master** • **Valladolid, España** 🇪🇸
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fpuente.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fpuente.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fran_De_La_Puente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscodelapuente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_De_La_Puente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscodelapuente)
 [![Twitter](https://img.shields.io/badge/Twitter-@fpuentecom-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fpuentecom)
 [![Email](https://img.shields.io/badge/Email-francisco@fpuente.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco@fpuente.com)
 
