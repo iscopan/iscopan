@@ -66,16 +66,6 @@ Herramienta profesional para crear sesiones de concurso tipo *Jeopardy* con sopo
 
 **Stack:** React 19, TypeScript, Tauri v2, Rust  
 
-## 📈 Estadísticas
-
-<div align="center">
-
-![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscopan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscopan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ## 🌱 Actualmente
 
 - 🔧 Profundizando en **Rust** y desarrollo de aplicaciones de escritorio
